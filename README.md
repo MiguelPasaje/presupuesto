@@ -1,5 +1,7 @@
 # Presupuesto
 
+This project's primary goal is to maintain a record of the available budget and track incurred expenses. It offers features for inputting the initial budget, adding expenses, and calculating the remaining balance, all with built-in validations. Furthermore, in this Angular project, there is a strong emphasis on effective component communication through the use of observables via a dedicated service.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.2.
 
 ## Development server
